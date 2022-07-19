@@ -239,7 +239,6 @@ header{
 }
 
 .about-text{
-    font-size: larger;
     height:380px;
     color: #fff;
     padding: 2rem;
@@ -248,11 +247,11 @@ header{
 
 .about-text h3{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 2rem;
+    font-size: 2vw;
 }
 
 .about-text p{
-    font-size: 1rem;
+    font-size:1.2vw;
     padding: 1rem;
 }
 
