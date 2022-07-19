@@ -199,6 +199,12 @@ header{
 .btn-inicio:hover{
     background-color: darkorange;
 }
+
+@media (max-width: 800px) {
+    .Inicio {
+        height: 1000px;
+    }
+}
 /* Fin del inicio */
 
 /* About */
@@ -258,6 +264,12 @@ header{
 
 .btn-about:hover{
     background-color: darkorange;
+}
+
+@media (max-width: 1300px){
+    .about-img{
+        max-width: 100%;
+    }
 }
 
 /* Fin About */
