@@ -239,6 +239,7 @@ header{
 }
 
 .about-text{
+    font-size: larger;
     height:380px;
     color: #fff;
     padding: 2rem;
