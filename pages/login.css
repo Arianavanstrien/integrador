@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    padding: 8rem 0;
+}
+
+h1{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.log-container{
+    background: url(/pages/imagenes/login.jpg);
+    background-size: cover;
+    padding: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    height: 500px;
+}
+
+.log{
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-log{
+    background-color: rgba(206, 151, 2, 0.685);
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+    padding: 1rem 5rem;
+    color: #fff;
+    margin-right: 1rem;
+}
+
+.btn-log:hover{
+    background-color: darkorange;
+}
+
