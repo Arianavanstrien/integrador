@@ -278,6 +278,16 @@ header{
         padding: 2rem;
         background-color: rgb(43, 41, 41);
     }
+
+    .about-text h3{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 2rem;
+    }
+    
+    .about-text p{
+        font-size:1.5rem;
+        padding: 1rem;
+    }
 }
 
 /* Fin About */
