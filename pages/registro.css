@@ -18,7 +18,7 @@ h1{
 }
 
 .registro{
-    background: url(/pages/imagenes/registro.jpg);
+    background: url(./imagenes/registro.jpg);
     background-size: cover;
     padding: 5rem;
 }
@@ -43,5 +43,15 @@ h1{
 
 .btn-sign:hover{
     background-color: darkorange;
+}
+
+@media (max-width: 1024){
+    .registro{
+        background-size: cover;
+    }
+
+    h1{
+        font-size: 3rem; 
+    }
 }
 
